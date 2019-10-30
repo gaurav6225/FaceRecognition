@@ -102,3 +102,4 @@ It is used to create 128-d face embeddings of the input image as well as custom 
 * [Facial Alignment](https://www.pyimagesearch.com/2017/05/22/face-alignment-with-opencv-and-python/)
 * [Face Recognition for Beginners](https://towardsdatascience.com/face-recognition-for-beginners-a7a9bd5eb5c2)
 * [Face Recognition Basics](https://www.coursera.org/lecture/convolutional-neural-networks/what-is-face-recognition-lUBYU)
+* [Facial recognition: ten reasons you should be worried about the technology ](https://theconversation.com/facial-recognition-ten-reasons-you-should-be-worried-about-the-technology-122137)
